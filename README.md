@@ -1,2 +1,2 @@
 # masterarbeit
-Daten/Codes der Masterabriet/des Masterprojekts
+Daten/Codes der Masterarbeit/des Masterprojekts
