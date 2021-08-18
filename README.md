@@ -12,6 +12,6 @@ http://data.onb.ac.at/rep/107462C3 (zuletzt abgerufen am 2021-08-18))
 
 XSLT der Daten
 
-Umsetzung des GIS in QGIS
+[Umsetzung des GIS in QGIS - kein Teil dieses Repository]
 
 Graz - 2021-08-18 - Christopher Egger
