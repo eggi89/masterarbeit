@@ -7,7 +7,11 @@ Räumliche Analyse des Reisebericht Kyselaks aus dem Jahre 1825
 
 Das umfasst:
 XML (TEI) - Kodierung des Textes
-XSLT der Dtaen
+(Diese Daten wurden seitens der Österreichischen Nationalbibliothek unter dem Link frei zur Verfügung gestellt:
+http://data.onb.ac.at/rep/107462C3 (zuletzt abgerufen am 2021-08-18))
+
+XSLT der Daten
+
 Umsetzung des GIS in QGIS
 
 Graz - 2021-08-18 - Christopher Egger
