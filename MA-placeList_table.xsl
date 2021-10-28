@@ -4,7 +4,7 @@
     xmlns:tei="http://www.tei-c.org/ns/1.0" version="2.0">
     <xsl:output method="xhtml" indent="yes" encoding="UTF-8"/>
     <!-- EGGER, Christopher - XSLT zum Masterprojekt/zur Masterarbeit -->
-    <!-- Version 1.0 (Letzte Aktualisierung am 2021-08-18) -->
+    <!-- Version 1.3 (Letzte Aktualisierung am 2021-10-28) -->
     <!-- erster Schritt: Allgemeiner Einstieg -->
     <xsl:template match="/">
         <html>
@@ -37,7 +37,7 @@
                 <th>Lage</th>
                 <th>AAT</th>
                 <th>@cert</th>
-                <th>Zeichenzahl</th>
+                <th>Stringlänge</th>
             </tr>
 
             <xsl:for-each select="//listPlace/place">
