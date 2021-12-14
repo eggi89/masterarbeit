@@ -16,4 +16,7 @@ Analyse und Bereitstellung der Daten
 
 [Umsetzung des GIS in QGIS - kein Teil dieses Repository]
 
-Graz - 2021-10-28 - Christopher Egger
+Link zu den GIS-Daten des Projekts (QGIS): [Stand: 2021-12-14]
+https://www.dropbox.com/sh/h57bbqyq5bl8qen/AAD49dAr5VuMFRzNz6ebTnRta?dl=0
+
+Graz - 2021-12-14 - Christopher Egger
